@@ -1,8 +1,8 @@
 # HR
-"Non-standard" Croatian fonts in:
-- CP10852 (CP437 with Croatian diacritics in CP852 and CROSCII standard)
-- CP10912 (CP437 with Croatian diacritics in ISO8859-2 and CP1250 standard)
-- CP11250 (CP437 with Croatian diacritics in CP1250, ISO8859-2 and CROSCII standard)
+"Non-standard" combined Croatian fonts in:
+- CP10852 (CP437 with Croatian diacritics in CP852 and CROSCII standards)
+- CP10912 (CP437 with Croatian diacritics in ISO8859-2 and CP1250 standards)
+- CP11250 (CP437 with Croatian diacritics in CP1250, ISO8859-2 and CROSCII standards)
 - CP437
 
 ## Prerequisites
