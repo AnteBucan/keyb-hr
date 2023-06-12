@@ -4,7 +4,7 @@ Adding only Croatian diacritics (čćžšđČĆŽŠĐ) to CP437 codepage in CP85
 ## Usage
 Download the latest release and unpack it in DOSBox folder.
 
-Use .bat files to load the desired font and keyboard:
+Use .BAT files to load the desired font and keyboard:
 
 - ### HR.BAT
      - Use EGA.CPX font with Croatian diacritics in CP852 standard
