@@ -1,17 +1,17 @@
-# HR
-"Non-standard" combined Croatian fonts in:
-- CP10852 (CP437 with Croatian diacritics in CP852 and CROSCII standards)
-- CP10912 (CP437 with Croatian diacritics in ISO8859-2 and CP1250 standards)
-- CP11250 (CP437 with Croatian diacritics in CP1250, ISO8859-2 and CROSCII standards)
+# Description
+The file EGA2.CPX contains "non-standard" combined Croatian fonts:
+- CP10852 (CP437 with Croatian diacritics in CP852 and CROSCII)
+- CP10912 (CP437 with Croatian diacritics in ISO8859-2 and CP1250)
+- CP11250 (CP437 with Croatian diacritics in CP1250, ISO8859-2 and CROSCII)
 - CP437
 
+# Creating custom fonts
 ## Prerequisites
 - font editor for DOS
 - cpi120.zip
 - upx-X.X.X-dos.zip
 
 ## Usage
-
 Edit a font with a font editor in three sizes:
 ```
 CP10852.F08
