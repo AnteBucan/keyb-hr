@@ -4,7 +4,7 @@ Creating keyboard layout
 ## Prerequisites:
 - kc200x.zip from FreeDOS
 
-## USAGE
+## Usage
 Edit .KEY files.
 
 Unzip kc200x.zip in DOSBox directory and copy .KEY files to that directory.
