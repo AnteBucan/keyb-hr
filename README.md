@@ -19,16 +19,16 @@ Use .BAT files to load the desired font and keyboard:
      - EGA.CPX font with Croatian diacritics in CP1250 standard
      - hr keyboard in CP1250 standard
 - ### HRC.BAT
-     - EGA2.CPX font with Croatian diacritics in CP852 and CROSCII standard
-     - hx keyboard in CP852 and CROSCII standard
+     - EGA2.CPX font with Croatian diacritics in CP852 and CROSCII standards
+     - hx keyboard in CP852 and CROSCII standards
      - Switch between keyboards with Alt-LShift (CP852) and Alt-RShift (CROSCII)
 - ### ISOWIN.BAT
-     - EGA2.CPX font with Croatian diacritics in ISO8859-2 and CP1250 standard
-     - hx keyboard in ISO8859-2 and CP1250 standard
+     - EGA2.CPX font with Croatian diacritics in ISO8859-2 and CP1250 standards
+     - hx keyboard in ISO8859-2 and CP1250 standards
      - Switch between keyboards with Alt-LShift (ISO8859-2) and Alt-RShift (CP1250)
 - ### WIC.BAT
-     - EGA2.CPX font with Croatian diacritics in CP1250, ISO8859-2 and CROSCII standard
-     - hx keyboard in CP1250, ISO8859-2 and CROSCII standard
+     - EGA2.CPX font with Croatian diacritics in CP1250, ISO8859-2 and CROSCII standards
+     - hx keyboard in CP1250, ISO8859-2 and CROSCII standards
      - Switch between keyboards with Alt-LShift (CP1250), Alt-RShift (ISO8859-2) and Alt-RCtrl (CROSCII)
 - ### US.BAT
      - EGA2.CPX font in CP437 standard
