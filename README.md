@@ -1,5 +1,5 @@
 # keyb-hr
-Adding codepages CP852, CROSCII, ISO8859-2 and CP1250 in DOSBox with only Croatian diacritics (čćžšđČĆŽŠĐ)
+Adding only Croatian diacritics (čćžšđČĆŽŠĐ) to CP437 codepage in CP852, CROSCII, ISO8859-2 and CP1250 standard. This preserves most of the box-drawing characters in DOSBox.
 
 ## Usage
 Download the latest release and unpack it in DOSBox folder.
