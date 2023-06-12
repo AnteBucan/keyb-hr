@@ -1,0 +1,4 @@
+@ECHO OFF
+KEYB hx 10852 EGA2.CPX
+ECHO Font: CP852.HR i CROSCII
+ECHO Tastatura: CP852.HR (Alt-LShift) i CROSCII (Alt-RShift)

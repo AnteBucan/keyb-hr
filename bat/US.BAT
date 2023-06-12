@@ -1,0 +1,4 @@
+@ECHO OFF
+KEYB hx 437 EGA2.CPX
+ECHO Font: CP437
+ECHO Tastatura: CP852.HR.czs
