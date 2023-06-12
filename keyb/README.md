@@ -1,6 +1,17 @@
-# keyb
-Creating keyboard layouts
+# Description
+The file KEYBOARD.SYS contains:
+- hr keyboard layout:
+  - CP852 (852)
+  - CROSCII (999)
+  - ISO8859-2 (912)
+  - CP1250 (1250)
+- hx keyboard layout:
+  - CP852 and CROSCII (10852)
+  - ISO8859-2 and CP1250 (10912)
+  - CP1250, ISO8859-2 and CROSCII (11250)
+  - CP437 (437)
 
+# Creating custom keyboard layouts
 ## Prerequisites:
 - kc200x.zip from FreeDOS
 
