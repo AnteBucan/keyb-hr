@@ -1,8 +1,8 @@
 # Description
 The file EGA2.CPX contains "non-standard" combined Croatian fonts:
-- CP10852 (CP437 with Croatian diacritics in CP852 and CROSCII)
-- CP10912 (CP437 with Croatian diacritics in ISO8859-2 and CP1250)
-- CP11250 (CP437 with Croatian diacritics in CP1250, ISO8859-2 and CROSCII)
+- CP10852 (CP437 with Croatian diacritics in CP852 and CROSCII places)
+- CP10912 (CP437 with Croatian diacritics in ISO8859-2 and CP1250 places)
+- CP11250 (CP437 with Croatian diacritics in CP1250, ISO8859-2 and CROSCII places)
 - CP437
 
 # Creating custom fonts
