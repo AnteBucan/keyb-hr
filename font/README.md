@@ -1,5 +1,5 @@
-# HR
+## HR
 "Standard" Croatian fonts
 
-# HX
+## HX
 "Non-standard" combined Croatian fonts
