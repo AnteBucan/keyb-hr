@@ -34,7 +34,7 @@ CPIADD EGA2.CPI 10852
 ```
 If there are no errors, you successfully added CP10852 to EGA2.CPI file that you can use in DOSBox.
 
-Create .CP files for other codepages and add them to EGA2.CPI.
+Create .CP files for other code pages and add them to EGA2.CPI.
 
 If you want to compress .CPI file to .CPX, extract upx-X.X.X-dos.zip in DOSBox directory and copy EGA2.CPI to upx-X.X.X-dos subdirectory.
 
