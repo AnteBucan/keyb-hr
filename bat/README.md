@@ -25,4 +25,4 @@
      - Switch between keyboards with Alt-LShift (CP1250), Alt-RShift (ISO8859-2) and Alt-RCtrl (CROSCII)
 - ### US.BAT
      - EGA2.CPX font in CP437
-     - hx keyboard in CP852 without Croatian diacritics (czs)
+     - hx Croatian keyboard without diacritics (czs)
