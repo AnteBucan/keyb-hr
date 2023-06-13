@@ -34,7 +34,7 @@ CPIADD EGA.CPI 852
 ```
 If there are no errors, you successfully added CP852 to EGA.CPI file that you can use in DOSBox.
 
-Create .CP files for other codepages and add them to EGA.CPI.
+Create .CP files for other codep ages and add them to EGA.CPI.
 
 If you want to compress .CPI file to .CPX, extract upx-X.X.X-dos.zip in DOSBox directory and copy EGA.CPI to upx-X.X.X-dos subdirectory.
 
