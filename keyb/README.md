@@ -1,14 +1,14 @@
 # Description
 The file KEYBOARD.SYS contains:
 - hr keyboard layouts:
-  - CP852 (852)
-  - CROSCII (999)
-  - ISO8859-2 (912)
-  - CP1250 (1250)
+  - Croatian in CP852 (852)
+  - Croatian in CROSCII (999)
+  - Croatian in ISO8859-2 (912)
+  - Croatian in CP1250 (1250)
 - hx keyboard layouts:
-  - CP852 and CROSCII (10852)
-  - ISO8859-2 and CP1250 (10912)
-  - CP1250, ISO8859-2 and CROSCII (11250)
+  - Croatian in CP852 and CROSCII (10852)
+  - Croatian in ISO8859-2 and CP1250 (10912)
+  - Croatian in CP1250, ISO8859-2 and CROSCII (11250)
   - Croatian without diacritics (czs) (437) 
 
 # Creating custom keyboard layouts
