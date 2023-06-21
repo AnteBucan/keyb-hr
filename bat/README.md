@@ -1,28 +1,28 @@
 # Description
 - ### HR.BAT
-     - EGA.CPX font with Croatian diacritics in CP852
-     - hr keyboard in CP852
+     - EGA.CPX font with Croatian diacritics from CP852
+     - hr Croatian keyboard in CP852 layout
 - ### CRO.BAT
-     - EGA.CPX font with Croatian diacritics in CROSCII
-     - hr keyboard in CROSCII
+     - EGA.CPX font with Croatian diacritics from CROSCII
+     - hr Croatian keyboard in CROSCII layout
 - ### ISO.BAT
-     - EGA.CPX font with Croatian diacritics in ISO8859-2
-     - hr keyboard in ISO8859-2
+     - EGA.CPX font with Croatian diacritics from ISO8859-2
+     - hr Croatian keyboard in ISO8859-2 layout
 - ### WIN1250.BAT
-     - EGA.CPX font with Croatian diacritics in CP1250
-     - hr keyboard in CP1250
+     - EGA.CPX font with Croatian diacritics from CP1250
+     - hr Croatian keyboard in CP1250 layout
 - ### HRC.BAT
-     - EGA2.CPX font with Croatian diacritics in CP852 and CROSCII
-     - hx keyboard in CP852 and CROSCII
+     - EGA2.CPX font with Croatian diacritics from CP852 and CROSCII
+     - hx Croatian keyboard in CP852 and CROSCII layout
      - Switch between keyboards with Alt-LShift (CP852) and Alt-RShift (CROSCII)
 - ### ISOWIN.BAT
-     - EGA2.CPX font with Croatian diacritics in ISO8859-2 and CP1250
-     - hx keyboard in ISO8859-2 and CP1250
+     - EGA2.CPX font with Croatian diacritics from ISO8859-2 and CP1250
+     - hx Croatian keyboard in ISO8859-2 and CP1250 layout
      - Switch between keyboards with Alt-LShift (ISO8859-2) and Alt-RShift (CP1250)
 - ### WIC.BAT
-     - EGA2.CPX font with Croatian diacritics in CP1250, ISO8859-2 and CROSCII
-     - hx keyboard in CP1250, ISO8859-2 and CROSCII
+     - EGA2.CPX font with Croatian diacritics from CP1250, ISO8859-2 and CROSCII
+     - hx Croatian keyboard in CP1250, ISO8859-2 and CROSCII layout
      - Switch between keyboards with Alt-LShift (CP1250), Alt-RShift (ISO8859-2) and Alt-RCtrl (CROSCII)
 - ### US.BAT
-     - EGA2.CPX font in CP437
+     - EGA2.CPX font from CP437
      - hx Croatian keyboard without diacritics (czs)
