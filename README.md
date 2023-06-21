@@ -2,7 +2,7 @@
 |---|---|
 |U DOSBox-u već postoji kodna stranica 852. Ovo dodaje promijenjenu 852, CROSCII, ISO8859-2 i 1250 kodnu stranicu. <br> Dodavanjem samo Hrvatskih dijakritičkih znakova CP437 fontu zadržava se većina znakova za crtanje okvira u DOSBoxu.|In DOSBox there is already code page 852. This adds modified 852, CROSCII, ISO8859-2 and 1250 code pages. <br> Adding only Croatian diacritics (čćžšđČĆŽŠĐ) to CP437 font preserves most of the box-drawing characters in DOSBox.|
 | Uputa | Usage |
-|Skinite zadnje izdanje i raspakirajte ga u DOSBox direktoriju. Koristite .BAT datoteke za učitavanje željenog fonta i tastature:|Download the latest release and unpack it in DOSBox directory. Use .BAT files to load the desired font and keyboard:|
+|Skinite zadnje [izdanje](https://github.com/AnteBucan/keyb-hr/releases/latest) i raspakirajte ga u DOSBox direktoriju. Koristite .BAT datoteke za učitavanje željenog fonta i tastature:|Download the latest [release](https://github.com/AnteBucan/keyb-hr/releases/latest) and unpack it in DOSBox directory. Use .BAT files to load the desired font and keyboard:|
 |HR.BAT|HR.BAT|
 |- EGA.CPX font sa Hrvatskim dijakritičkim znakovima iz CP852 <br> - hr Hrvatska tastatura sa CP852 rasporedom|- EGA.CPX font with Croatian diacritics from CP852 <br>- hr Croatian keyboard in CP852 layout|
 |CRO.BAT|CRO.BAT|
